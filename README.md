@@ -1,3 +1,3 @@
 # INFOTC-3380
-Homework and practice code for INFOTC3380 - Database Systems
+Homework and practice code for INFOTC3380 - Database Systems : 
 SQL and No-SQL (MongoDB)
