@@ -1,0 +1,19 @@
+1. 
+With the regular join, there are not any null fields and there are 100 rows. In the left join query, there are some null values in the salesRepEmployeeNumber field 
+because we are including customers that to not have employees attached to them, and there are 122 results. In the right join query, there are some null values in the
+fields that contain customer info because the query includes employees that do not have customers, and there are 108 results.
+
+2.
+There are no differences in the actual results of any of these three queries, but in the left join, the results are in a different order than the join and right join.
+All show 23 results.
+
+3.
+There are no differences between the join and right join queries and they both have 2996 results. The left join query projects 3020 results and has null values in the
+fields with order information because the query includes customers that have not made orders.
+
+4.
+The are no differences between the join and right join queries and the both have 273 results. The left join query projects 297 results and has null values in the 
+fields with payment information because the query includes customers who have not made any payments.
+
+5.
+There are no differences between any of the 3 queries and they all produce 110 results.
